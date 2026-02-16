@@ -5,8 +5,6 @@
         "description": "Experiment with browser-based motion tracking. POC: run locally, store kinematics only (avoid PII/PHI & relevance for model training, e.g. gait analysis), demonstrate accuracy at fall detection, wandering, inactivity, etc.",
         "screenshot": "assets/motioncapture.webp",
         "tags": [
-            "Motion detection",
-            "RPM",
             "Experiments"
         ],
         "links": [
@@ -27,8 +25,7 @@
         "screenshot": "assets/fhirexplorer.webp",
         "tags": [
             "Experiments",
-            "FHIR",
-            "SMART on FHIR"
+            "FHIR"
         ],
         "links": [
             {
@@ -48,7 +45,8 @@
         "screenshot": "assets/a2f.webp",
         "tags": [
             "FHIR",
-            "'Deterministic 'AI"
+            "'Deterministic' AI",
+            "Care Automation"
         ],
         "links": [
             {
@@ -92,8 +90,7 @@
         "description": "Experiments in optimizing transcription and voice synthesis using LLMs/NLP cloud and local.",
         "screenshot": "assets/ava.webp",
         "tags": [
-            "STT",
-            "TTS",
+            "Experiments",
             "AI"
         ],
         "links": [
@@ -119,7 +116,7 @@
         "tags": [
             "FHIR",
             "CQL",
-            "Clinical Decision Support"
+            "Care Automation"
         ],
         "links": [
             {
@@ -150,29 +147,156 @@
     },
     {
         "id": 8,
-        "name": "",
-        "description": "",
-        "screenshot": "assets/.webp",
+        "name": "Cannabis Prescriber",
+        "description": "Medication management, insurance adjudication and claims processing",
+        "screenshot": "assets/cannabisrx.webp",
         "tags": [
-            "",
-            ""
+            "Care Automation"
         ],
         "links": [
             {
-                "label": "",
-                "url": ""
-            },
+                "label": "Source Code",
+                "url": "https://github.com/mradamcole/cannabisprescriber"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "OH FHIR dashboard",
+        "description": "Demonstration of BI dashboards directly from FHIR",
+        "screenshot": "assets/ohdashboard.webp",
+        "tags": [
+            "Care Automation",
+            "FHIR"
+        ],
+        "links": [
             {
-                "label": "",
-                "url": ""
-            },
+                "label": "Source Code",
+                "url": "https://github.com/mradamcole/reportcard"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Clinic Management",
+        "description": "Multi-provider clinic scheduling, patient management, and billing system",
+        "screenshot": "assets/clinicmanagement.webp",
+        "tags": [
+            "Care Automation"
+        ],
+        "links": [
             {
-                "label": "",
-                "url": ""
-            },
+                "label": "Source Code",
+                "url": "https://github.com/mradamcole/CannScripts-Demo"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Live multiperson collaboration",
+        "description": "Day 0 of Covid, I wanted to see about building a real-time multi-person collaboration tool using webRTC and CRDTs.",
+        "screenshot": "assets/collab.webp",
+        "tags": [
+            "Experiments"
+        ],
+        "links": [
             {
-                "label": "",
-                "url": ""
+                "label": "Live Demo",
+                "url": "https://mradamcole.github.io/meetingsOnline/Atlaskit.html#"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Study Buddy",
+        "description": "AI tutor to augment IRL turors",
+        "screenshot": "assets/studybuddy.webp",
+        "tags": [
+            "AI",
+            "Education"
+        ],
+        "links": [
+            {
+                "label": "Live Demo",
+                "url": "https://studybuddy.masterylab.a"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Intelligent Prescriber",
+        "description": "ML in the days pre-ChatGPT",
+        "screenshot": "assets/prescriber.webp",
+        "tags": [
+            "'Deterministic' AI",
+            "Care Automation"
+        ],
+        "links": [
+            {
+                "label": "Video",
+                "url": "https://www.youtube.com/watch?v=e1YfNXUIG2I"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Software Estimating",
+        "description": "As software engineers we all suck at estimating. This was my mea culpa and exploration into why and how I can improve.",
+        "screenshot": "assets/estimating.jpg",
+        "tags": [
+            "Education"
+        ],
+        "links": [
+            {
+                "label": "Slidehare Presentation",
+                "url": "https://www.slideshare.net/mradamcole"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Older Projects",
+        "description": "A collection of some older projects.",
+        "screenshot": "assets/older.jpg",
+        "tags": [
+            "Education"
+        ],
+        "links": [
+            {
+                "label": "Slidehare Presentation",
+                "url": "https://www.slideshare.net/mradamcole"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Block Chain in Healthcare",
+        "description": "When I was drinking the Kool-aid and doing the blockchain and healthcare tour.",
+        "screenshot": "assets/blockchain.jpg",
+        "tags": [
+            "Education",
+            "Blockchain",
+            "Care Automation"
+        ],
+        "links": [
+            {
+                "label": "Slidehare Presentation",
+                "url": "https://www.slideshare.net/mradamcole"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Startups",
+        "description": "When I was at a funding agency",
+        "screenshot": "assets/startups.jpg",
+        "tags": [
+            "Education"
+        ],
+        "links": [
+            {
+                "label": "Slidehare Presentation",
+                "url": "https://www.slideshare.net/mradamcole"
             }
         ]
     }
