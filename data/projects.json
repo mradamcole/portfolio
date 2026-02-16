@@ -6,7 +6,8 @@
         "screenshot": "assets/motioncapture.webp",
         "tags": [
             "Motion detection",
-            "RPM"
+            "RPM",
+            "Experiments"
         ],
         "links": [
             {
@@ -21,45 +22,157 @@
     },
     {
         "id": 2,
-        "name": "Weather Dashboard",
-        "description": "Real-time weather tracking application providing detailed forecasts, interactive maps, and historical data visualization.",
-        "screenshot": "assets/weather.png",
+        "name": "FHIR Explorer",
+        "description": "Christmas 2021, world locked down due to Covid-19, so I built a FHIR Explorer to help me understand the FHIR specification better.",
+        "screenshot": "assets/fhirexplorer.webp",
         "tags": [
-            "Frontend",
-            "API"
+            "Experiments",
+            "FHIR",
+            "SMART on FHIR"
         ],
         "links": [
             {
-                "label": "View Project",
-                "url": "#"
+                "label": "Live demo",
+                "url": "https://mradamcole.github.io/FHIRExplorer/fhirexplorer2022dec21.html"
             },
             {
                 "label": "Source Code",
-                "url": "#"
+                "url": "https://github.com/mradamcole/FHIRExplorer"
             }
         ]
     },
     {
         "id": 3,
-        "name": "Social Connect",
-        "description": "A social networking app focused on privacy and community building, featuring encrypted messaging and group collaboration tools.",
-        "screenshot": "assets/social.png",
+        "name": "Anything2FHIR",
+        "description": "Convert any document into FHIR. Multi & ensembleOCR strategy & proper + high accuracy + coding of FHIR resources and data elements.",
+        "screenshot": "assets/a2f.webp",
         "tags": [
-            "Mobile",
-            "Utility"
+            "FHIR",
+            "'Deterministic 'AI"
         ],
         "links": [
             {
-                "label": "App Store",
-                "url": "#"
+                "label": "Live demo (~15mins to wake up)",
+                "url": "https://demo.anything2fhir.com/"
             },
             {
-                "label": "Play Store",
-                "url": "#"
+                "label": "Admin demo",
+                "url": "https://landing.anything2fhir.com/"
             },
             {
-                "label": "Website",
-                "url": "#"
+                "label": "Docs (Swagger)",
+                "url": "https://api.anything2fhir.com/docs#/"
+            },
+            {
+                "label": "Docs (Fast)",
+                "url": "https://api.anything2fhir.com/redoc#operation/login_token_post"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "HAMS memory system",
+        "description": "Infer and retain knowledge facts in embeddings (memory) from conversation, link memories via graph database (memory graph), infer sentiment from text and voice (emotion) and track as real values (salience, decay, resonance) and discrete categorical terms (emotions).",
+        "screenshot": "assets/hams.webp",
+        "tags": [
+            "AI",
+            "Memory",
+            "Emotions/sentiment"
+        ],
+        "links": [
+            {
+                "label": "Source Code",
+                "url": "https://github.com/mradamcole/memory-system"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Experiments in trasncription",
+        "description": "Experiments in optimizing transcription and voice synthesis using LLMs/NLP cloud and local.",
+        "screenshot": "assets/ava.webp",
+        "tags": [
+            "STT",
+            "TTS",
+            "AI"
+        ],
+        "links": [
+            {
+                "label": "Study Buddy Avatar POC (Github)",
+                "url": "https://github.com/mradamcole/sbAvatar"
+            },
+            {
+                "label": "AVA - Ambient Virtual Assistant (Github)",
+                "url": "https://github.com/mradamcole/AVA2"
+            },
+            {
+                "label": "VoiceAgent01 (Github)",
+                "url": "https://github.com/mradamcole/voiceagent01"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "CQL CareGaps",
+        "description": "Prospective care gap identification and gap closure using the same engine/rules.",
+        "screenshot": "assets/caregaps.webp",
+        "tags": [
+            "FHIR",
+            "CQL",
+            "Clinical Decision Support"
+        ],
+        "links": [
+            {
+                "label": "Live demo",
+                "url": "https://mradamcole.github.io/caregaps/demoCareGaps.html"
+            },
+            {
+                "label": "Source Code",
+                "url": "https://github.com/mradamcole/caregaps"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "FHIR Dashboard",
+        "description": "Demonstration of BI dashboards directly from FHIR",
+        "screenshot": "assets/fhirdashboard.webp",
+        "tags": [
+            "FHIR",
+            "BI"
+        ],
+        "links": [
+            {
+                "label": "Source Code",
+                "url": "https://github.com/mradamcole/bidashboard"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "",
+        "description": "",
+        "screenshot": "assets/.webp",
+        "tags": [
+            "",
+            ""
+        ],
+        "links": [
+            {
+                "label": "",
+                "url": ""
+            },
+            {
+                "label": "",
+                "url": ""
+            },
+            {
+                "label": "",
+                "url": ""
+            },
+            {
+                "label": "",
+                "url": ""
             }
         ]
     }
