@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Motion Capture POC",
+        "description": "Experiment with browser-based motion tracking. POC: run locally, store kinematics only (avoid PII/PHI & relevance for model training, e.g. gait analysis), demonstrate accuracy at fall detection, wandering, inactivity, etc.",
+        "screenshot": "assets/motioncapture.webp",
+        "tags": [
+            "Motion detection",
+            "RPM"
+        ],
+        "links": [
+            {
+                "label": "Live Demo",
+                "url": "https://mradamcole.github.io/motion-tracking-poc/"
+            },
+            {
+                "label": "GitHub",
+                "url": "https://github.com/mradamcole/motion-tracking-poc"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Weather Dashboard",
+        "description": "Real-time weather tracking application providing detailed forecasts, interactive maps, and historical data visualization.",
+        "screenshot": "assets/weather.png",
+        "tags": [
+            "Frontend",
+            "API"
+        ],
+        "links": [
+            {
+                "label": "View Project",
+                "url": "#"
+            },
+            {
+                "label": "Source Code",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Social Connect",
+        "description": "A social networking app focused on privacy and community building, featuring encrypted messaging and group collaboration tools.",
+        "screenshot": "assets/social.png",
+        "tags": [
+            "Mobile",
+            "Utility"
+        ],
+        "links": [
+            {
+                "label": "App Store",
+                "url": "#"
+            },
+            {
+                "label": "Play Store",
+                "url": "#"
+            },
+            {
+                "label": "Website",
+                "url": "#"
+            }
+        ]
+    }
+]
