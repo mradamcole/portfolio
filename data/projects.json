@@ -178,6 +178,22 @@
     },
     {
         "id": 10,
+        "name": "Evidence Reasoning Instrument (ERI)",
+        "description": "Science-based medical cannabis prescribing CDS",
+        "screenshot": "assets/Evidence-Reasoning-Instrument.png",
+        "tags": [
+            "AI",
+            "Education"
+        ],
+        "links": [
+            {
+                "label": "Live demo",
+                "url": "https://mradamcole.github.io/eri3/"
+            }
+        ]
+    },
+    {
+        "id": 11,
         "name": "Cannabis Prescriber",
         "description": "Medication management, insurance adjudication and claims processing",
         "screenshot": "assets/cannabisrx.webp",
@@ -192,7 +208,7 @@
         ]
     },
     {
-        "id": 11,
+        "id": 12,
         "name": "OH FHIR dashboard",
         "description": "Demonstration of BI dashboards directly from FHIR",
         "screenshot": "assets/ohdashboard.webp",
@@ -208,7 +224,7 @@
         ]
     },
     {
-        "id": 12,
+        "id": 13,
         "name": "Clinic Management",
         "description": "Multi-provider clinic scheduling, patient management, and billing system",
         "screenshot": "assets/clinicmanagement.webp",
@@ -223,7 +239,7 @@
         ]
     },
     {
-        "id": 13,
+        "id": 14,
         "name": "Live multiperson collaboration",
         "description": "Day 0 of Covid, I wanted to see about building a real-time multi-person collaboration tool using webRTC and CRDTs.",
         "screenshot": "assets/collab.webp",
@@ -238,7 +254,7 @@
         ]
     },
     {
-        "id": 14,
+        "id": 15,
         "name": "Study Buddy",
         "description": "AI tutor to augment IRL turors",
         "screenshot": "assets/studybuddy.webp",
@@ -254,7 +270,7 @@
         ]
     },
     {
-        "id": 15,
+        "id": 16,
         "name": "Intelligent Prescriber",
         "description": "ML in the days pre-ChatGPT",
         "screenshot": "assets/prescriber.webp",
@@ -270,7 +286,7 @@
         ]
     },
     {
-        "id": 16,
+        "id": 17,
         "name": "Software Estimating",
         "description": "As software engineers we all suck at estimating. This was my mea culpa and exploration into why and how I can improve.",
         "screenshot": "assets/estimating.jpg",
@@ -285,7 +301,7 @@
         ]
     },
     {
-        "id": 17,
+        "id": 18,
         "name": "Older Projects",
         "description": "A collection of some older projects.",
         "screenshot": "assets/older.jpg",
@@ -300,7 +316,7 @@
         ]
     },
     {
-        "id": 18,
+        "id": 19,
         "name": "Block Chain in Healthcare",
         "description": "When I was drinking the Kool-aid and doing the blockchain and healthcare tour.",
         "screenshot": "assets/blockchain.jpg",
@@ -317,7 +333,7 @@
         ]
     },
     {
-        "id": 19,
+        "id": 20,
         "name": "Startups",
         "description": "When I was at a funding agency",
         "screenshot": "assets/startups.jpg",
