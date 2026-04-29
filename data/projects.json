@@ -102,6 +102,21 @@
     },
     {
         "id": 6,
+        "name": "Digital HEDIS ROI",
+        "description": "Scenario builder for estimating ROI on implementing digital HEDIS at your payer organization",
+        "screenshot": "assets/Digital-HEDIS-ROM-Scenario-Modeller.png",
+        "tags": [
+            "FHIR"
+        ],
+        "links": [
+            {
+                "label": "Live site",
+                "url": "https://mradamcole.github.io/digital-hedis-roi/"
+            }
+        ]
+    },
+    {
+        "id": 7,
         "name": "Experiments in trasncription",
         "description": "Experiments in optimizing transcription and voice synthesis using LLMs/NLP cloud and local.",
         "screenshot": "assets/ava.webp",
@@ -125,7 +140,7 @@
         ]
     },
     {
-        "id": 7,
+        "id": 8,
         "name": "CQL CareGaps",
         "description": "Prospective care gap identification and gap closure using the same engine/rules.",
         "screenshot": "assets/caregaps.webp",
@@ -146,7 +161,7 @@
         ]
     },
     {
-        "id": 8,
+        "id": 9,
         "name": "FHIR Dashboard",
         "description": "Demonstration of BI dashboards directly from FHIR",
         "screenshot": "assets/fhirdashboard.webp",
@@ -162,7 +177,7 @@
         ]
     },
     {
-        "id": 9,
+        "id": 10,
         "name": "Cannabis Prescriber",
         "description": "Medication management, insurance adjudication and claims processing",
         "screenshot": "assets/cannabisrx.webp",
@@ -177,7 +192,7 @@
         ]
     },
     {
-        "id": 10,
+        "id": 11,
         "name": "OH FHIR dashboard",
         "description": "Demonstration of BI dashboards directly from FHIR",
         "screenshot": "assets/ohdashboard.webp",
@@ -193,7 +208,7 @@
         ]
     },
     {
-        "id": 11,
+        "id": 12,
         "name": "Clinic Management",
         "description": "Multi-provider clinic scheduling, patient management, and billing system",
         "screenshot": "assets/clinicmanagement.webp",
@@ -208,7 +223,7 @@
         ]
     },
     {
-        "id": 12,
+        "id": 13,
         "name": "Live multiperson collaboration",
         "description": "Day 0 of Covid, I wanted to see about building a real-time multi-person collaboration tool using webRTC and CRDTs.",
         "screenshot": "assets/collab.webp",
@@ -223,7 +238,7 @@
         ]
     },
     {
-        "id": 13,
+        "id": 14,
         "name": "Study Buddy",
         "description": "AI tutor to augment IRL turors",
         "screenshot": "assets/studybuddy.webp",
@@ -239,7 +254,7 @@
         ]
     },
     {
-        "id": 14,
+        "id": 15,
         "name": "Intelligent Prescriber",
         "description": "ML in the days pre-ChatGPT",
         "screenshot": "assets/prescriber.webp",
@@ -255,7 +270,7 @@
         ]
     },
     {
-        "id": 15,
+        "id": 16,
         "name": "Software Estimating",
         "description": "As software engineers we all suck at estimating. This was my mea culpa and exploration into why and how I can improve.",
         "screenshot": "assets/estimating.jpg",
@@ -270,7 +285,7 @@
         ]
     },
     {
-        "id": 16,
+        "id": 17,
         "name": "Older Projects",
         "description": "A collection of some older projects.",
         "screenshot": "assets/older.jpg",
@@ -285,7 +300,7 @@
         ]
     },
     {
-        "id": 17,
+        "id": 18,
         "name": "Block Chain in Healthcare",
         "description": "When I was drinking the Kool-aid and doing the blockchain and healthcare tour.",
         "screenshot": "assets/blockchain.jpg",
@@ -302,7 +317,7 @@
         ]
     },
     {
-        "id": 18,
+        "id": 19,
         "name": "Startups",
         "description": "When I was at a funding agency",
         "screenshot": "assets/startups.jpg",
